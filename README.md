@@ -1,3 +1,3 @@
 Esto sera un fichero para mostrar los commits a revertir ya lo he acabado todO
 
-modificacndo con la carpeta scripts
+modificacndo con la mejora y el cliente puiedes segfuir usando mates|
