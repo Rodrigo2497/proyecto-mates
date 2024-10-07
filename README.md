@@ -1,3 +1,3 @@
-Esto sera un fichero para mostrar los commits a revertir ya lo he acabado todo
+Esto sera un fichero para mostrar los commits a revertir ya lo he acabado todO
 
 modificacndo con la carpeta scripts
